@@ -1,0 +1,16 @@
+{
+  "name": "rosy-bella-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger Bot - Rosy Bella Lingerie",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
